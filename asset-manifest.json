@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sagar/static/css/main.52f123ca.css",
+    "main.js": "/sagar/static/js/main.33baf8f3.js",
+    "static/js/787.a2bf511c.chunk.js": "/sagar/static/js/787.a2bf511c.chunk.js",
+    "index.html": "/sagar/index.html",
+    "main.52f123ca.css.map": "/sagar/static/css/main.52f123ca.css.map",
+    "main.33baf8f3.js.map": "/sagar/static/js/main.33baf8f3.js.map",
+    "787.a2bf511c.chunk.js.map": "/sagar/static/js/787.a2bf511c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52f123ca.css",
+    "static/js/main.33baf8f3.js"
+  ]
+}
